@@ -78,7 +78,10 @@ font-weight: bold;
     .title_image {display: none;}
     .testimonial-text {font-size:6vw}
     .header-phones {font-size:3rem}
+    .navbar-brand {margin-right: 0}
+    .navbar-toggler {margin-left: 2px}
 }
+
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 1.5),
