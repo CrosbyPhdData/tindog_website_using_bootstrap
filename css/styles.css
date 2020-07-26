@@ -74,14 +74,17 @@ font-weight: bold;
   position:absolute;
 }
 
+
 @media only screen and (max-width: 1028px) {
     .title_image {display: none;}
     .testimonial-text {font-size:6vw}
     .header-phones {font-size:3rem}
-    .navbar-brand {margin-right: 0}
-    .navbar-toggler {margin-left: 0px}
 }
 
+@media only screen and (max-width: 600px) {
+    .navbar-brand {margin-right: 0}
+    .navbar-toggler {margin-left: 2px; padding-left: 0; padding-right: 0}
+}
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 1.5),
