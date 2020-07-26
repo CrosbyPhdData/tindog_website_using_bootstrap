@@ -77,7 +77,7 @@ font-weight: bold;
 
 @media only screen and (max-width: 1028px) {
     .title_image {display: none;}
-    .testimonial-text {font-size:6vw}
+    .testimonial-text {font-size:5vw}
 }
 /* feature list */
 
