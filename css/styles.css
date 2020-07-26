@@ -76,9 +76,8 @@ font-weight: bold;
 }
 
 @media only screen and (max-width: 1028px) {
-    .title_image {
-        display: none;
-    }
+    .title_image {display: none;}
+    .testimonial-text {font-size:6vw}
 }
 /* feature list */
 
