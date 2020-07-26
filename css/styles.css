@@ -81,7 +81,7 @@ font-weight: bold;
     .header-phones {font-size:3rem}
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 350px) {
     .navbar-brand {margin-right: 0}
     .navbar-toggler {margin-left: 2px; padding-left: 0; padding-right: 0}
 }
